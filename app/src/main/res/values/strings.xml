@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FastTest</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="button">Button</string>
+    <string name="your_lucky_number_is">Your Lucky Number is:</string>
+    <string name="_1000">1000</string>
+    <string name="wish_me_luck">Wish Me Luck</string>
+    <string name="share_my_lucky_number">Share my lucky number</string>
+</resources>
