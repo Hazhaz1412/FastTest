@@ -25,7 +25,7 @@ public class Lucky extends AppCompatActivity {
         });
         TextView num = findViewById(R.id.num);
         Random random = new Random();
-        int luckyNumber = random.nextInt(1000) + 1; 
+        int luckyNumber = random.nextInt(1000) + 1;
         num.setText(String.valueOf(luckyNumber));
 
 
